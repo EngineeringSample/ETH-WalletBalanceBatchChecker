@@ -57,4 +57,4 @@ Please note that this script is still under development, which means it may have
 
 ---
 
-Replace `"ETH-WalletBalanceBatchChecker.py"` with the actual filename of your script. This tutorial explains how to use the script while considering that it's still in development and open to future enhancements.
+This tutorial explains how to use the script while considering that it's still in development and open to future enhancements.
